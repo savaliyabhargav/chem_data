@@ -1,0 +1,41 @@
+ReactionID,Reactants,Reagents,Catalysts,Solvents,Temperature_C,Pressure_atm,Yield_Percent,Products
+1,"CCO, C=O",HCl,Pd/C,Methanol,80,1,85,CCC=O
+2,"CC(C)=O, H2",Ni,Raney-Ni,Ethanol,60,1,95,CC(C)OH
+3,"BrCCCO, NaOH",KI,None,Water,25,1,90,OCCCOH
+4,"CC=O, NH3",None,H2SO4,Acetonitrile,100,1,80,CC=N
+5,"CCCCBr, Mg",None,Et2O,Diethyl ether,0,1,75,CCCCMgBr
+6,"CCCOH, SOCl2",None,Pyridine,Chloroform,40,1,88,CCCOCl
+7,"ClCCCO, LiAlH4",None,THF,THF,30,1,92,CCCOH
+8,"C=C, HBr",None,None,Hexane,20,1,85,CCBr
+9,"CCCOH, Na",None,None,Methanol,25,1,95,CCCNaO
+10,"CCCCO, PCC",None,None,Dichloromethane,50,1,78,CCCC=O
+11,"COOH, SOCl2",None,None,Acetonitrile,60,1,82,COCl
+12,"CC=O, PPh3",None,CH2Cl2,Dichloromethane,40,1,87,CC=PPh3
+13,"CCN, H2O2",None,H2SO4,Water,80,1,92,CCNO
+14,"BrCCC, NaI",None,DMF,DMF,70,1,80,ICCC
+15,"CC=O, NH2OH",None,HCl,Water,50,1,88,CC=NOH
+16,"COC, HI",None,None,Acetone,30,1,85,CIC
+17,"CCBr, NaCN",None,None,DMF,60,1,90,CCCN
+18,"CCC=O, NaBH4",None,EtOH,Ethanol,25,1,95,CCCOH
+19,"CCCOH, TsCl",None,None,Pyridine,40,1,80,CCCOTs
+20,"CC=O, CH3MgBr",None,None,THF,0,1,93,CCCOH
+21,"CCO, HBr",None,None,Methanol,50,1,82,CCBr
+22,"CC=O, NH3",None,None,Acetonitrile,80,1,87,CC=N
+23,"CCCCBr, Mg",None,Et2O,Diethyl ether,0,1,78,CCCCMgBr
+24,"CCCOH, SOCl2",None,Pyridine,Chloroform,40,1,88,CCCOCl
+25,"ClCCCO, LiAlH4",None,THF,THF,30,1,92,CCCOH
+26,"C=C, HBr",None,None,Hexane,20,1,85,CCBr
+27,"CCCOH, Na",None,None,Methanol,25,1,95,CCCNaO
+28,"CCCCO, PCC",None,None,Dichloromethane,50,1,78,CCCC=O
+29,"COOH, SOCl2",None,None,Acetonitrile,60,1,82,COCl
+30,"CC=O, PPh3",None,CH2Cl2,Dichloromethane,40,1,87,CC=PPh3
+31,"CCN, H2O2",None,H2SO4,Water,80,1,92,CCNO
+32,"BrCCC, NaI",None,DMF,DMF,70,1,80,ICCC
+33,"CC=O, NH2OH",None,HCl,Water,50,1,88,CC=NOH
+34,"COC, HI",None,None,Acetone,30,1,85,CIC
+35,"CCBr, NaCN",None,None,DMF,60,1,90,CCCN
+36,"CCC=O, NaBH4",None,EtOH,Ethanol,25,1,95,CCCOH
+37,"CCCOH, TsCl",None,None,Pyridine,40,1,80,CCCOTs
+38,"CC=O, CH3MgBr",None,None,THF,0,1,93,CCCOH
+39,"C=O, Zn",None,Acetic Acid,Methanol,50,1,82,CCOH
+40,"CCN, K2CO3",None,None,DMF,80,1,85,CCO
